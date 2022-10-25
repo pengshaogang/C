@@ -2,16 +2,16 @@
 
 int main()
 {
-    char a = 'F';
+        
 
-    char *pa = &a;
+        int a = 110;
+        int *b = &a;
 
+        *b = *b - 10;
 
+        printf("a = %d\n", a);
+        printf("sizeof int: %lu\n", sizeof(int));
+        printf("sizeof *int: %lu\n", sizeof(b));
 
-
-    
-
-    printf("address: a = %p\n", &a);
-    printf("address: pa = %p\n", pa);
-    return 0;
+        return 0;
 }

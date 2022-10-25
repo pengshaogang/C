@@ -23,9 +23,9 @@ int main()
     printf("sizeof pb = %lu\n", sizeof(pb));
     printf("sizeof pc = %lu\n", sizeof(pc));
 
-    printf("address pa = %p\n", &pa);
-    printf("address pb = %p\n", &pb);
-    printf("address pc = %p\n", &pc);
+    printf("address pa = %p\n", pa);
+    printf("address pb = %p\n", pb);
+    printf("address pc = %p\n", pc);
 
 
 
