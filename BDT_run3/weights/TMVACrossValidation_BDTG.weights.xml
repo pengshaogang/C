@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<MethodSetup Method="CrossValidation::BDTG">
+  <GeneralInfo>
+    <Info name="TMVA Release" value="4.2.1 [262657]"/>
+    <Info name="ROOT Release" value="6.36/04 [402436]"/>
+    <Info name="Creator" value="pengshaogang"/>
+    <Info name="Date" value="Sun Mar 15 21:37:16 2026"/>
+    <Info name="Host" value="Darwin sequoiax.internal.macports.net 24.6.0 Darwin Kernel Version 24.6.0: Mon Jul 14 11:28:17 PDT 2025; root:xnu-11417.140.69~1/RELEASE_X86_64 x86_64"/>
+    <Info name="Dir" value="/Users/pengshaogang/Documents/analysis/bphy25/B0Ks/after_PV_constr/aod_fidu_cor/mix3"/>
+    <Info name="Training events" value="40086"/>
+    <Info name="TrainingTime" value="2.86102295e-06"/>
+    <Info name="AnalysisType" value="Classification"/>
+  </GeneralInfo>
+  <Options>
+    <Option name="V" modified="No">False</Option>
+    <Option name="VerbosityLevel" modified="No">Default</Option>
+    <Option name="VarTransform" modified="No">None</Option>
+    <Option name="H" modified="No">False</Option>
+    <Option name="CreateMVAPdfs" modified="No">False</Option>
+    <Option name="IgnoreNegWeightsInTraining" modified="No">False</Option>
+    <Option name="EncapsulatedMethodName" modified="Yes">BDTG</Option>
+    <Option name="EncapsulatedMethodTypeName" modified="Yes">BDT</Option>
+    <Option name="NumFolds" modified="Yes">5</Option>
+    <Option name="OutputEnsembling" modified="Yes">None</Option>
+    <Option name="SplitExpr" modified="Yes">int(fabs([event]))%int([NumFolds])</Option>
+  </Options>
+  <Variables NVar="6">
+    <Variable VarIndex="0" Expression="ld_Lxy" Label="ld_Lxy" Title="L_{xy}(K_{S})" Unit="mm" Internal="ld_Lxy" Type="F" Min="3.00342488e+00" Max="7.46090332e+02"/>
+    <Variable VarIndex="1" Expression="jx_Lxy" Label="jx_Lxy" Title="L_{xy}(B^{0})" Unit="mm" Internal="jx_Lxy" Type="F" Min="2.00084776e-01" Max="7.77826538e+01"/>
+    <Variable VarIndex="2" Expression="tq_rf_ratio" Label="tq_rf_ratio" Title="p_{T}^{B^{0}K_{S}}/#Sigmap_{T}^{PV}" Unit="" Internal="tq_rf_ratio" Type="F" Min="2.00128704e-01" Max="9.92060781e-01"/>
+    <Variable VarIndex="3" Expression="tq_rf_fitChi2NDF" Label="tq_rf_fitChi2NDF" Title="#chi^{2}/N" Unit="" Internal="tq_rf_fitChi2NDF" Type="F" Min="7.08782971e-02" Max="1.79996431e+00"/>
+    <Variable VarIndex="4" Expression="ld_rf_pt" Label="ld_rf_pt" Title="p_{T}(K_{S})" Unit="MeV" Internal="ld_rf_pt" Type="F" Min="9.70146912e+02" Max="4.58813555e+04"/>
+    <Variable VarIndex="5" Expression="x_rf_pt" Label="x_rf_pt" Title="p_{T}(K^{*0})" Unit="MeV" Internal="x_rf_pt" Type="F" Min="1.50217297e+03" Max="1.85025422e+05"/>
+  </Variables>
+  <Spectators NSpec="1">
+    <Spectator SpecIndex="0" Expression="event" Label="event" Title="I" Unit="" Internal="event" Type="F" Min="4.00000000e+00" Max="9.99880000e+04"/>
+  </Spectators>
+  <Classes NClass="2">
+    <Class Name="Signal" Index="0"/>
+    <Class Name="Background" Index="1"/>
+  </Classes>
+  <Transformations NTransformations="0"/>
+  <MVAPdfs/>
+  <Weights JobName="TMVACrossValidation" SplitExpr="int(fabs([event]))%int([NumFolds])" NumFolds="5" EncapsulatedMethodName="BDTG" EncapsulatedMethodTypeName="BDT" OutputEnsembling="None"/>
+</MethodSetup>
