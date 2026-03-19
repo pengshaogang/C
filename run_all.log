@@ -3662,3 +3662,2319 @@ recoCorWt: 6320.46
   up    eps2/eps1=0.4270728497595385  eps3/eps1=0.4130881779339503
   down  eps2/eps1=0.42722431213660805  eps3/eps1=0.41367494683435135
   rel   eps2/eps1=-0.018%/+0.017%  eps3/eps1=-0.071%/+0.071%
+=== MUON_CB_up_k0_isRun30_isBs21 ===
+
+200000 entries to be processed...
+3940000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+207600 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23246.23, 9668.44
+Filter(1): 6430.00, 2731.94
+Filter(2): 1444789.38, 618564.12
+  anaCode: 55362.69, 23504.99
+   presel: 14999.83, 6308.79
+   trigWt: 12058.27, 5099.67
+     PuWt: 12147.70, 5149.73
+   muIDWt: 12343.99, 5232.29
+recoCorWt: 12211.50, 5095.64
+      BDT: 11490.15, 4798.92
+   trigSF: 10739.55, 4466.84
+=== MUON_CB_up_k0_isRun30_isBs20 ===
+
+100000 entries to be processed...
+1140000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+59543 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16565.37
+Filter(1): 4574.00
+Filter(2): 598129.38
+  anaCode: 22286.43
+   presel: 5879.65
+   trigWt: 4800.79
+     PuWt: 4854.16
+   muIDWt: 4928.95
+recoCorWt: 4763.97
+      BDT: 4487.58
+   trigSF: 4214.47
+=== MUON_CB_dn_k0_isRun30_isBs21 ===
+
+200000 entries to be processed...
+3940000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+207600 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23246.23, 9668.44
+Filter(1): 6430.00, 2731.94
+Filter(2): 1444789.38, 618564.12
+  anaCode: 55362.69, 23504.99
+   presel: 15115.33, 6347.30
+   trigWt: 12155.93, 5129.76
+     PuWt: 12245.49, 5179.57
+   muIDWt: 12442.53, 5262.49
+recoCorWt: 12312.02, 5128.26
+      BDT: 11581.58, 4825.91
+   trigSF: 10821.04, 4491.79
+=== MUON_CB_dn_k0_isRun30_isBs20 ===
+
+100000 entries to be processed...
+1140000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+59543 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16565.37
+Filter(1): 4574.00
+Filter(2): 598129.38
+  anaCode: 22286.43
+   presel: 5919.45
+   trigWt: 4833.97
+     PuWt: 4887.43
+   muIDWt: 4962.94
+recoCorWt: 4799.09
+      BDT: 4515.34
+   trigSF: 4238.33
+[MUON_CB] k=0 isRun3=0
+  norm  eps2/eps1=0.41648859797845517  eps3/eps1=0.39023828749416895
+  up    eps2/eps1=0.4176551219957964  eps3/eps1=0.3905588699886425
+  down  eps2/eps1=0.41668839657456064  eps3/eps1=0.389872538980001
+  rel   eps2/eps1=+0.280%/+0.048%  eps3/eps1=+0.082%/-0.094%
+=== MUON_CB_up_k0_isRun31_isBs21 ===
+
+200000 entries to be processed...
+5020000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+254288 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23610.89, 10232.54
+Filter(1): 6805.84, 2863.12
+Filter(2): 1935445.88, 828212.44
+  anaCode: 74937.45, 32265.78
+   presel: 17869.04, 7631.64
+   trigWt: 15014.15, 6414.24
+     PuWt: 15155.74, 6454.58
+   muIDWt: 14897.66, 6343.14
+recoCorWt: 15215.27, 6529.39
+      BDT: 14378.17, 6131.08
+   trigSF: 14318.21, 6112.50
+=== MUON_CB_up_k0_isRun31_isBs20 ===
+
+100000 entries to be processed...
+1440000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+72974 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16615.79
+Filter(1): 4867.88
+Filter(2): 792907.12
+  anaCode: 30322.86
+   presel: 7215.73
+   trigWt: 6091.11
+     PuWt: 6243.71
+   muIDWt: 6138.34
+recoCorWt: 6359.12
+      BDT: 5943.80
+   trigSF: 5937.35
+=== MUON_CB_dn_k0_isRun31_isBs21 ===
+
+200000 entries to be processed...
+5020000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+254288 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23610.89, 10232.54
+Filter(1): 6805.84, 2863.12
+Filter(2): 1935445.88, 828212.44
+  anaCode: 74937.45, 32265.78
+   presel: 17988.05, 7676.24
+   trigWt: 15112.00, 6451.32
+     PuWt: 15250.83, 6494.30
+   muIDWt: 14990.96, 6382.14
+recoCorWt: 15330.68, 6579.97
+      BDT: 14490.69, 6177.87
+   trigSF: 14429.29, 6158.75
+=== MUON_CB_dn_k0_isRun31_isBs20 ===
+
+100000 entries to be processed...
+1440000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+72974 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16615.79
+Filter(1): 4867.88
+Filter(2): 792907.12
+  anaCode: 30322.86
+   presel: 7272.17
+   trigWt: 6138.42
+     PuWt: 6293.61
+   muIDWt: 6187.38
+recoCorWt: 6417.56
+      BDT: 5998.14
+   trigSF: 5992.18
+[MUON_CB] k=0 isRun3=1
+  norm  eps2/eps1=0.4271498914714912  eps3/eps1=0.41338189822190885
+  up    eps2/eps1=0.4264158790722324  eps3/eps1=0.4133905775213397
+  down  eps2/eps1=0.4263337356606207  eps3/eps1=0.41393059957807393
+  rel   eps2/eps1=-0.172%/-0.191%  eps3/eps1=+0.002%/+0.133%
+=== MUON_SCALE_up_k1_isRun30_isBs21 ===
+
+200000 entries to be processed...
+3940000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+207600 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23246.23, 9668.44
+Filter(1): 6430.00, 2731.94
+Filter(2): 1444789.38, 618564.12
+  anaCode: 55362.69, 23504.99
+   presel: 15037.98, 6318.26
+   trigWt: 12100.10, 5106.65
+     PuWt: 12189.49, 5156.88
+   muIDWt: 12386.13, 5239.74
+recoCorWt: 12256.42, 5100.83
+      BDT: 11537.15, 4802.72
+   trigSF: 10780.83, 4468.64
+=== MUON_SCALE_up_k1_isRun30_isBs20 ===
+
+100000 entries to be processed...
+1140000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+59543 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16565.37
+Filter(1): 4574.00
+Filter(2): 598129.38
+  anaCode: 22286.43
+   presel: 5900.77
+   trigWt: 4818.72
+     PuWt: 4871.84
+   muIDWt: 4947.41
+recoCorWt: 4786.67
+      BDT: 4507.64
+   trigSF: 4230.41
+=== MUON_SCALE_dn_k1_isRun30_isBs21 ===
+
+200000 entries to be processed...
+3940000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+207600 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23246.23, 9668.44
+Filter(1): 6430.00, 2731.94
+Filter(2): 1444789.38, 618564.12
+  anaCode: 55362.69, 23504.99
+   presel: 15091.68, 6339.01
+   trigWt: 12128.24, 5123.41
+     PuWt: 12217.42, 5173.57
+   muIDWt: 12414.30, 5256.25
+recoCorWt: 12287.65, 5122.28
+      BDT: 11560.69, 4824.39
+   trigSF: 10802.80, 4489.84
+=== MUON_SCALE_dn_k1_isRun30_isBs20 ===
+
+100000 entries to be processed...
+1140000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+59543 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16565.37
+Filter(1): 4574.00
+Filter(2): 598129.38
+  anaCode: 22286.43
+   presel: 5916.53
+   trigWt: 4829.79
+     PuWt: 4883.98
+   muIDWt: 4959.16
+recoCorWt: 4795.83
+      BDT: 4513.92
+   trigSF: 4237.30
+[MUON_SCALE] k=1 isRun3=0
+  norm  eps2/eps1=0.41648859797845517  eps3/eps1=0.39023828749416895
+  up    eps2/eps1=0.4162830508401122  eps3/eps1=0.3907065436437942
+  down  eps2/eps1=0.4173098664526079  eps3/eps1=0.39045420299307393
+  rel   eps2/eps1=-0.049%/+0.197%  eps3/eps1=+0.120%/+0.055%
+=== MUON_SCALE_up_k1_isRun31_isBs21 ===
+
+200000 entries to be processed...
+5020000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+254288 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23610.89, 10232.54
+Filter(1): 6805.84, 2863.12
+Filter(2): 1935445.88, 828212.44
+  anaCode: 74937.45, 32265.78
+   presel: 17900.59, 7645.67
+   trigWt: 15039.91, 6426.32
+     PuWt: 15183.45, 6466.08
+   muIDWt: 14924.71, 6354.27
+recoCorWt: 15240.31, 6546.31
+      BDT: 14403.41, 6150.76
+   trigSF: 14343.04, 6131.27
+=== MUON_SCALE_up_k1_isRun31_isBs20 ===
+
+100000 entries to be processed...
+1440000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+72974 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16615.79
+Filter(1): 4867.88
+Filter(2): 792907.12
+  anaCode: 30322.86
+   presel: 7224.20
+   trigWt: 6097.99
+     PuWt: 6246.65
+   muIDWt: 6141.26
+recoCorWt: 6362.65
+      BDT: 5947.54
+   trigSF: 5940.52
+=== MUON_SCALE_dn_k1_isRun31_isBs21 ===
+
+200000 entries to be processed...
+5020000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+254288 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23610.89, 10232.54
+Filter(1): 6805.84, 2863.12
+Filter(2): 1935445.88, 828212.44
+  anaCode: 74937.45, 32265.78
+   presel: 17942.55, 7656.64
+   trigWt: 15073.32, 6435.57
+     PuWt: 15221.45, 6477.60
+   muIDWt: 14962.39, 6365.62
+recoCorWt: 15303.34, 6565.17
+      BDT: 14457.64, 6163.98
+   trigSF: 14396.45, 6144.93
+=== MUON_SCALE_dn_k1_isRun31_isBs20 ===
+
+100000 entries to be processed...
+1440000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+72974 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16615.79
+Filter(1): 4867.88
+Filter(2): 792907.12
+  anaCode: 30322.86
+   presel: 7253.49
+   trigWt: 6119.00
+     PuWt: 6273.68
+   muIDWt: 6167.69
+recoCorWt: 6396.61
+      BDT: 5981.75
+   trigSF: 5975.78
+[MUON_SCALE] k=1 isRun3=1
+  norm  eps2/eps1=0.4271498914714912  eps3/eps1=0.41338189822190885
+  up    eps2/eps1=0.42703498685380753  eps3/eps1=0.41292582798101285
+  down  eps2/eps1=0.42634759199980077  eps3/eps1=0.41374318353479544
+  rel   eps2/eps1=-0.027%/-0.188%  eps3/eps1=-0.110%/+0.087%
+=== MUON_SAGITTA_RESBIAS_up_k2_isRun30_isBs21 ===
+
+200000 entries to be processed...
+3940000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+207600 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23246.23, 9668.44
+Filter(1): 6430.00, 2731.94
+Filter(2): 1444789.38, 618564.12
+  anaCode: 55362.69, 23504.99
+   presel: 15078.15, 6325.59
+   trigWt: 12124.72, 5113.65
+     PuWt: 12213.46, 5163.51
+   muIDWt: 12410.52, 5246.36
+recoCorWt: 12282.48, 5110.22
+      BDT: 11554.53, 4812.33
+   trigSF: 10795.99, 4478.47
+=== MUON_SAGITTA_RESBIAS_up_k2_isRun30_isBs20 ===
+
+100000 entries to be processed...
+1140000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+59543 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16565.37
+Filter(1): 4574.00
+Filter(2): 598129.38
+  anaCode: 22286.43
+   presel: 5906.50
+   trigWt: 4825.25
+     PuWt: 4878.75
+   muIDWt: 4954.27
+recoCorWt: 4788.83
+      BDT: 4509.02
+   trigSF: 4232.24
+=== MUON_SAGITTA_RESBIAS_dn_k2_isRun30_isBs21 ===
+
+200000 entries to be processed...
+3940000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+207600 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23246.23, 9668.44
+Filter(1): 6430.00, 2731.94
+Filter(2): 1444789.38, 618564.12
+  anaCode: 55362.69, 23504.99
+   presel: 15076.81, 6325.59
+   trigWt: 12123.38, 5113.65
+     PuWt: 12212.08, 5163.51
+   muIDWt: 12409.14, 5246.36
+recoCorWt: 12282.06, 5110.22
+      BDT: 11554.11, 4812.33
+   trigSF: 10795.59, 4478.47
+=== MUON_SAGITTA_RESBIAS_dn_k2_isRun30_isBs20 ===
+
+100000 entries to be processed...
+1140000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+59543 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16565.37
+Filter(1): 4574.00
+Filter(2): 598129.38
+  anaCode: 22286.43
+   presel: 5906.50
+   trigWt: 4825.25
+     PuWt: 4878.75
+   muIDWt: 4954.27
+recoCorWt: 4788.83
+      BDT: 4509.02
+   trigSF: 4232.24
+[MUON_SAGITTA_RESBIAS] k=2 isRun3=0
+  norm  eps2/eps1=0.41648859797845517  eps3/eps1=0.39023828749416895
+  up    eps2/eps1=0.41648859797845517  eps3/eps1=0.39023828749416895
+  down  eps2/eps1=0.4165037376310248  eps3/eps1=0.3902524729295463
+  rel   eps2/eps1=+0.000%/+0.004%  eps3/eps1=+0.000%/+0.004%
+=== MUON_SAGITTA_RESBIAS_up_k2_isRun31_isBs21 ===
+
+200000 entries to be processed...
+5020000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+254288 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23610.89, 10232.54
+Filter(1): 6805.84, 2863.12
+Filter(2): 1935445.88, 828212.44
+  anaCode: 74937.45, 32265.78
+   presel: 17904.69, 7650.57
+   trigWt: 15044.36, 6430.31
+     PuWt: 15190.29, 6472.30
+   muIDWt: 14931.39, 6360.47
+recoCorWt: 15251.54, 6555.06
+      BDT: 14412.75, 6155.01
+   trigSF: 14351.60, 6135.74
+=== MUON_SAGITTA_RESBIAS_up_k2_isRun31_isBs20 ===
+
+100000 entries to be processed...
+1440000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+72974 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16615.79
+Filter(1): 4867.88
+Filter(2): 792907.12
+  anaCode: 30322.86
+   presel: 7233.47
+   trigWt: 6105.26
+     PuWt: 6259.32
+   muIDWt: 6153.77
+recoCorWt: 6372.85
+      BDT: 5955.98
+   trigSF: 5949.13
+=== MUON_SAGITTA_RESBIAS_dn_k2_isRun31_isBs21 ===
+
+200000 entries to be processed...
+5020000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+254288 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23610.89, 10232.54
+Filter(1): 6805.84, 2863.12
+Filter(2): 1935445.88, 828212.44
+  anaCode: 74937.45, 32265.78
+   presel: 17905.47, 7651.28
+   trigWt: 15043.18, 6431.06
+     PuWt: 15188.48, 6473.49
+   muIDWt: 14929.60, 6361.65
+recoCorWt: 15249.58, 6556.00
+      BDT: 14410.78, 6155.96
+   trigSF: 14349.94, 6136.71
+=== MUON_SAGITTA_RESBIAS_dn_k2_isRun31_isBs20 ===
+
+100000 entries to be processed...
+1440000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+72974 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16615.79
+Filter(1): 4867.88
+Filter(2): 792907.12
+  anaCode: 30322.86
+   presel: 7235.90
+   trigWt: 6107.26
+     PuWt: 6260.28
+   muIDWt: 6154.67
+recoCorWt: 6374.58
+      BDT: 5957.71
+   trigSF: 5950.84
+[MUON_SAGITTA_RESBIAS] k=2 isRun3=1
+  norm  eps2/eps1=0.4271498914714912  eps3/eps1=0.41338189822190885
+  up    eps2/eps1=0.42705313004110945  eps3/eps1=0.4132438292484085
+  down  eps2/eps1=0.42717743244987433  eps3/eps1=0.41342037002854803
+  rel   eps2/eps1=-0.023%/+0.006%  eps3/eps1=-0.033%/+0.009%
+=== MUON_SAGITTA_DATASTAT_up_k3_isRun30_isBs21 ===
+
+200000 entries to be processed...
+3940000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+207600 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23246.23, 9668.44
+Filter(1): 6430.00, 2731.94
+Filter(2): 1444789.38, 618564.12
+  anaCode: 55362.69, 23504.99
+   presel: 15078.15, 6325.81
+   trigWt: 12124.72, 5113.88
+     PuWt: 12213.46, 5163.77
+   muIDWt: 12410.52, 5246.62
+recoCorWt: 12282.39, 5110.51
+      BDT: 11554.44, 4812.62
+   trigSF: 10795.93, 4478.71
+=== MUON_SAGITTA_DATASTAT_up_k3_isRun30_isBs20 ===
+
+100000 entries to be processed...
+1140000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+59543 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16565.37
+Filter(1): 4574.00
+Filter(2): 598129.38
+  anaCode: 22286.43
+   presel: 5906.50
+   trigWt: 4825.25
+     PuWt: 4878.75
+   muIDWt: 4954.27
+recoCorWt: 4788.83
+      BDT: 4509.02
+   trigSF: 4232.24
+=== MUON_SAGITTA_DATASTAT_dn_k3_isRun30_isBs21 ===
+
+200000 entries to be processed...
+3940000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+207600 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23246.23, 9668.44
+Filter(1): 6430.00, 2731.94
+Filter(2): 1444789.38, 618564.12
+  anaCode: 55362.69, 23504.99
+   presel: 15078.05, 6325.17
+   trigWt: 12124.62, 5113.23
+     PuWt: 12213.36, 5163.09
+   muIDWt: 12410.42, 5245.94
+recoCorWt: 12282.46, 5110.03
+      BDT: 11554.51, 4812.14
+   trigSF: 10796.02, 4478.23
+=== MUON_SAGITTA_DATASTAT_dn_k3_isRun30_isBs20 ===
+
+100000 entries to be processed...
+1140000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+59543 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16565.37
+Filter(1): 4574.00
+Filter(2): 598129.38
+  anaCode: 22286.43
+   presel: 5907.37
+   trigWt: 4825.53
+     PuWt: 4879.04
+   muIDWt: 4954.58
+recoCorWt: 4788.92
+      BDT: 4509.11
+   trigSF: 4232.33
+[MUON_SAGITTA_DATASTAT] k=3 isRun3=0
+  norm  eps2/eps1=0.41648859797845517  eps3/eps1=0.39023828749416895
+  up    eps2/eps1=0.4165169406738881  eps3/eps1=0.390241327143505
+  down  eps2/eps1=0.41647287509379455  eps3/eps1=0.39024675213401516
+  rel   eps2/eps1=+0.007%/-0.004%  eps3/eps1=+0.001%/+0.002%
+=== MUON_SAGITTA_DATASTAT_up_k3_isRun31_isBs21 ===
+
+200000 entries to be processed...
+5020000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+254288 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23610.89, 10232.54
+Filter(1): 6805.84, 2863.12
+Filter(2): 1935445.88, 828212.44
+  anaCode: 74937.45, 32265.78
+   presel: 17903.12, 7649.41
+   trigWt: 15042.37, 6430.26
+     PuWt: 15188.32, 6472.58
+   muIDWt: 14929.49, 6360.75
+recoCorWt: 15248.55, 6555.41
+      BDT: 14409.75, 6155.37
+   trigSF: 14348.72, 6136.12
+=== MUON_SAGITTA_DATASTAT_up_k3_isRun31_isBs20 ===
+
+100000 entries to be processed...
+1440000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+72974 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16615.79
+Filter(1): 4867.88
+Filter(2): 792907.12
+  anaCode: 30322.86
+   presel: 7234.55
+   trigWt: 6106.08
+     PuWt: 6259.63
+   muIDWt: 6153.99
+recoCorWt: 6374.10
+      BDT: 5957.22
+   trigSF: 5950.33
+=== MUON_SAGITTA_DATASTAT_dn_k3_isRun31_isBs21 ===
+
+200000 entries to be processed...
+5020000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+254288 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23610.89, 10232.54
+Filter(1): 6805.84, 2863.12
+Filter(2): 1935445.88, 828212.44
+  anaCode: 74937.45, 32265.78
+   presel: 17903.96, 7649.19
+   trigWt: 15043.04, 6430.04
+     PuWt: 15188.42, 6471.94
+   muIDWt: 14929.59, 6360.12
+recoCorWt: 15250.01, 6554.74
+      BDT: 14411.21, 6154.69
+   trigSF: 14350.08, 6135.41
+=== MUON_SAGITTA_DATASTAT_dn_k3_isRun31_isBs20 ===
+
+100000 entries to be processed...
+1440000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+72974 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16615.79
+Filter(1): 4867.88
+Filter(2): 792907.12
+  anaCode: 30322.86
+   presel: 7234.55
+   trigWt: 6106.08
+     PuWt: 6259.63
+   muIDWt: 6153.99
+recoCorWt: 6374.10
+      BDT: 5957.23
+   trigSF: 5950.33
+[MUON_SAGITTA_DATASTAT] k=3 isRun3=1
+  norm  eps2/eps1=0.4271498914714912  eps3/eps1=0.41338189822190885
+  up    eps2/eps1=0.42716702232863163  eps3/eps1=0.41341591630666735
+  down  eps2/eps1=0.42707656053863624  eps3/eps1=0.413374727035412
+  rel   eps2/eps1=+0.004%/-0.017%  eps3/eps1=+0.008%/-0.002%
+=== MUON_SAGITTA_GLOBAL_up_k4_isRun30_isBs21 ===
+
+200000 entries to be processed...
+3940000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+207600 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23246.23, 9668.44
+Filter(1): 6430.00, 2731.94
+Filter(2): 1444789.38, 618564.12
+  anaCode: 55362.69, 23504.99
+   presel: 15074.58, 6326.88
+   trigWt: 12122.11, 5114.28
+     PuWt: 12210.71, 5164.27
+   muIDWt: 12407.81, 5247.13
+recoCorWt: 12280.03, 5110.85
+      BDT: 11552.08, 4812.96
+   trigSF: 10794.04, 4478.97
+=== MUON_SAGITTA_GLOBAL_up_k4_isRun30_isBs20 ===
+
+100000 entries to be processed...
+1140000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+59543 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16565.37
+Filter(1): 4574.00
+Filter(2): 598129.38
+  anaCode: 22286.43
+   presel: 5905.04
+   trigWt: 4824.43
+     PuWt: 4877.96
+   muIDWt: 4953.40
+recoCorWt: 4787.63
+      BDT: 4507.82
+   trigSF: 4231.21
+=== MUON_SAGITTA_GLOBAL_dn_k4_isRun30_isBs21 ===
+
+200000 entries to be processed...
+3940000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+207600 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23246.23, 9668.44
+Filter(1): 6430.00, 2731.94
+Filter(2): 1444789.38, 618564.12
+  anaCode: 55362.69, 23504.99
+   presel: 15073.03, 6325.11
+   trigWt: 12122.87, 5114.08
+     PuWt: 12211.48, 5163.96
+   muIDWt: 12408.53, 5246.81
+recoCorWt: 12280.56, 5111.86
+      BDT: 11552.61, 4813.97
+   trigSF: 10794.52, 4479.32
+=== MUON_SAGITTA_GLOBAL_dn_k4_isRun30_isBs20 ===
+
+100000 entries to be processed...
+1140000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+59543 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16565.37
+Filter(1): 4574.00
+Filter(2): 598129.38
+  anaCode: 22286.43
+   presel: 5909.14
+   trigWt: 4827.84
+     PuWt: 4881.37
+   muIDWt: 4956.80
+recoCorWt: 4792.01
+      BDT: 4512.20
+   trigSF: 4236.02
+[MUON_SAGITTA_GLOBAL] k=4 isRun3=0
+  norm  eps2/eps1=0.41648859797845517  eps3/eps1=0.39023828749416895
+  up    eps2/eps1=0.4166314637710265  eps3/eps1=0.39021717301126724
+  down  eps2/eps1=0.41669977606791886  eps3/eps1=0.39057840609178357
+  rel   eps2/eps1=+0.034%/+0.051%  eps3/eps1=-0.005%/+0.087%
+=== MUON_SAGITTA_GLOBAL_up_k4_isRun31_isBs21 ===
+
+200000 entries to be processed...
+5020000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+254288 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23610.89, 10232.54
+Filter(1): 6805.84, 2863.12
+Filter(2): 1935445.88, 828212.44
+  anaCode: 74937.45, 32265.78
+   presel: 17904.34, 7649.39
+   trigWt: 15043.80, 6430.20
+     PuWt: 15188.70, 6471.96
+   muIDWt: 14929.87, 6360.13
+recoCorWt: 15251.75, 6555.24
+      BDT: 14412.95, 6155.19
+   trigSF: 14351.92, 6135.98
+=== MUON_SAGITTA_GLOBAL_up_k4_isRun31_isBs20 ===
+
+100000 entries to be processed...
+1440000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+72974 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16615.79
+Filter(1): 4867.88
+Filter(2): 792907.12
+  anaCode: 30322.86
+   presel: 7234.63
+   trigWt: 6106.28
+     PuWt: 6260.52
+   muIDWt: 6154.95
+recoCorWt: 6373.94
+      BDT: 5957.07
+   trigSF: 5950.07
+=== MUON_SAGITTA_GLOBAL_dn_k4_isRun31_isBs21 ===
+
+200000 entries to be processed...
+5020000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+254288 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23610.89, 10232.54
+Filter(1): 6805.84, 2863.12
+Filter(2): 1935445.88, 828212.44
+  anaCode: 74937.45, 32265.78
+   presel: 17905.20, 7650.82
+   trigWt: 15043.68, 6430.71
+     PuWt: 15190.74, 6472.84
+   muIDWt: 14931.83, 6361.01
+recoCorWt: 15252.49, 6555.60
+      BDT: 14413.68, 6155.56
+   trigSF: 14352.64, 6136.29
+=== MUON_SAGITTA_GLOBAL_dn_k4_isRun31_isBs20 ===
+
+100000 entries to be processed...
+1440000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+72974 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16615.79
+Filter(1): 4867.88
+Filter(2): 792907.12
+  anaCode: 30322.86
+   presel: 7233.82
+   trigWt: 6105.17
+     PuWt: 6257.42
+   muIDWt: 6151.82
+recoCorWt: 6372.58
+      BDT: 5955.72
+   trigSF: 5948.80
+[MUON_SAGITTA_GLOBAL] k=4 isRun3=1
+  norm  eps2/eps1=0.4271498914714912  eps3/eps1=0.41338189822190885
+  up    eps2/eps1=0.42705969284566997  eps3/eps1=0.41331372134087746
+  down  eps2/eps1=0.42706373389724206  eps3/eps1=0.4131991274955459
+  rel   eps2/eps1=-0.021%/-0.020%  eps3/eps1=-0.016%/-0.044%
+=== MUON_SAGITTA_PTEXTRA_up_k5_isRun30_isBs21 ===
+
+200000 entries to be processed...
+3940000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+207600 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23246.23, 9668.44
+Filter(1): 6430.00, 2731.94
+Filter(2): 1444789.38, 618564.12
+  anaCode: 55362.69, 23504.99
+   presel: 15077.33, 6324.35
+   trigWt: 12124.35, 5113.41
+     PuWt: 12213.08, 5163.36
+   muIDWt: 12410.14, 5246.20
+recoCorWt: 12282.06, 5109.98
+      BDT: 11554.11, 4812.09
+   trigSF: 10795.61, 4478.04
+=== MUON_SAGITTA_PTEXTRA_up_k5_isRun30_isBs20 ===
+
+100000 entries to be processed...
+1140000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+59543 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16565.37
+Filter(1): 4574.00
+Filter(2): 598129.38
+  anaCode: 22286.43
+   presel: 5906.50
+   trigWt: 4825.25
+     PuWt: 4878.75
+   muIDWt: 4954.27
+recoCorWt: 4788.83
+      BDT: 4509.02
+   trigSF: 4232.24
+=== MUON_SAGITTA_PTEXTRA_dn_k5_isRun30_isBs21 ===
+
+200000 entries to be processed...
+3940000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+207600 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23246.23, 9668.44
+Filter(1): 6430.00, 2731.94
+Filter(2): 1444789.38, 618564.12
+  anaCode: 55362.69, 23504.99
+   presel: 15078.16, 6325.81
+   trigWt: 12124.73, 5113.88
+     PuWt: 12213.47, 5163.77
+   muIDWt: 12410.53, 5246.62
+recoCorWt: 12282.49, 5110.58
+      BDT: 11554.53, 4812.68
+   trigSF: 10796.00, 4478.78
+=== MUON_SAGITTA_PTEXTRA_dn_k5_isRun30_isBs20 ===
+
+100000 entries to be processed...
+1140000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+59543 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16565.37
+Filter(1): 4574.00
+Filter(2): 598129.38
+  anaCode: 22286.43
+   presel: 5906.31
+   trigWt: 4825.06
+     PuWt: 4878.56
+   muIDWt: 4954.08
+recoCorWt: 4788.58
+      BDT: 4508.77
+   trigSF: 4232.01
+[MUON_SAGITTA_PTEXTRA] k=5 isRun3=0
+  norm  eps2/eps1=0.41648859797845517  eps3/eps1=0.39023828749416895
+  up    eps2/eps1=0.4164829658017796  eps3/eps1=0.3902524729295463
+  down  eps2/eps1=0.41651888912833324  eps3/eps1=0.3902166509585418
+  rel   eps2/eps1=-0.001%/+0.007%  eps3/eps1=+0.004%/-0.006%
+=== MUON_SAGITTA_PTEXTRA_up_k5_isRun31_isBs21 ===
+
+200000 entries to be processed...
+5020000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+254288 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23610.89, 10232.54
+Filter(1): 6805.84, 2863.12
+Filter(2): 1935445.88, 828212.44
+  anaCode: 74937.45, 32265.78
+   presel: 17906.06, 7649.34
+   trigWt: 15044.27, 6430.20
+     PuWt: 15190.25, 6472.40
+   muIDWt: 14931.40, 6360.57
+recoCorWt: 15251.51, 6555.56
+      BDT: 14412.72, 6155.51
+   trigSF: 14351.73, 6136.26
+=== MUON_SAGITTA_PTEXTRA_up_k5_isRun31_isBs20 ===
+
+100000 entries to be processed...
+1440000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+72974 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16615.79
+Filter(1): 4867.88
+Filter(2): 792907.12
+  anaCode: 30322.86
+   presel: 7235.32
+   trigWt: 6106.84
+     PuWt: 6261.23
+   muIDWt: 6155.57
+recoCorWt: 6374.48
+      BDT: 5957.61
+   trigSF: 5950.71
+=== MUON_SAGITTA_PTEXTRA_dn_k5_isRun31_isBs21 ===
+
+200000 entries to be processed...
+5020000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+254288 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 23610.89, 10232.54
+Filter(1): 6805.84, 2863.12
+Filter(2): 1935445.88, 828212.44
+  anaCode: 74937.45, 32265.78
+   presel: 17903.78, 7649.72
+   trigWt: 15042.97, 6430.57
+     PuWt: 15188.49, 6472.95
+   muIDWt: 14929.65, 6361.12
+recoCorWt: 15249.96, 6555.88
+      BDT: 14411.17, 6155.83
+   trigSF: 14350.17, 6136.61
+=== MUON_SAGITTA_PTEXTRA_dn_k5_isRun31_isBs20 ===
+
+100000 entries to be processed...
+1440000 entries to be processed...
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run2/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+                         : Booking "BDTG" of type "CrossValidation" from BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml.
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG.weights.xml
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold1.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold2.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold3.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold4.weights.xml
+                         : Reading weightfile: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Reading weight file: BDT_run3/weights/TMVACrossValidation_BDTG_fold5.weights.xml
+                         : Booked classifier "BDTG" of type: "CrossValidation"
+72974 entries to be processed...
+                         : Rebuilding Dataset Default
+ Fiducial: 16615.79
+Filter(1): 4867.88
+Filter(2): 792907.12
+  anaCode: 30322.86
+   presel: 7234.52
+   trigWt: 6105.87
+     PuWt: 6259.42
+   muIDWt: 6153.80
+recoCorWt: 6373.82
+      BDT: 5956.95
+   trigSF: 5950.08
+[MUON_SAGITTA_PTEXTRA] k=5 isRun3=1
+  norm  eps2/eps1=0.4271498914714912  eps3/eps1=0.41338189822190885
+  up    eps2/eps1=0.4270887105279226  eps3/eps1=0.4133577839575042
+  down  eps2/eps1=0.42715685124802494  eps3/eps1=0.4133564450353441
+  rel   eps2/eps1=-0.014%/+0.002%  eps3/eps1=-0.006%/-0.006%

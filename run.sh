@@ -81,6 +81,67 @@ apply_sf_variant() {
   fi
 }
 
+apply_mu_scale_variant() {
+  # Inject a temporary mu-scale systematic block before "// pre-selection".
+  # Usage:
+  #   apply_mu_scale_variant nom
+  #   apply_mu_scale_variant up <idx>
+  #   apply_mu_scale_variant dn <idx>
+  local v="$1"
+  local idx="${2:-}"
+  if [[ "$v" == "nom" ]]; then
+    return 0
+  fi
+  if [[ -z "${idx:-}" ]]; then
+    echo "Error: apply_mu_scale_variant needs idx for v=$v" >&2
+    exit 1
+  fi
+
+  local s0 s1
+  if [[ "$v" == "up" ]]; then
+    s0="mu_scale_up[0][$idx]"
+    s1="mu_scale_up[1][$idx]"
+  elif [[ "$v" == "dn" ]]; then
+    s0="mu_scale_down[0][$idx]"
+    s1="mu_scale_down[1][$idx]"
+  else
+    echo "Error: unknown mu-scale variant: $v" >&2
+    exit 1
+  fi
+
+  python3 - <<PY
+from pathlib import Path
+
+s0 = r"$s0"
+s1 = r"$s1"
+
+path = Path(r"$PARENT_DIR/check_eff_fid.cc")
+text = path.read_text()
+marker = "// pre-selection"
+if marker not in text:
+    raise SystemExit(f"Error: marker '{marker}' not found in {path}")
+
+block = (
+    "      TLorentzVector v1; TLorentzVector v2;\n"
+    f"      v1.SetPtEtaPhiM(mu_pt[0]*{s0},mu_eta[0],mu_phi[0],105.658);//systematics\n"
+    f"      v2.SetPtEtaPhiM(mu_pt[1]*{s1},mu_eta[1],mu_phi[1],105.658);\n"
+    "      jpsi_m   = (v1+v2).M();\n"
+    "      TLorentzVector v3; TLorentzVector v4;\n"
+    "      v3.SetPtEtaPhiM(trk_pt[0],trk_eta[0],trk_phi[0],trk_rf_m[0]);\n"
+    "      v4.SetPtEtaPhiM(trk_pt[1],trk_eta[1],trk_phi[1],trk_rf_m[1]);\n"
+    "      jx_m   = (v1+v2+v3+v4).M();\n"
+    "      jx_m_calc = jx_m - jpsi_m + 3096.916;\n"
+    "\n"
+    f"      if(mu_pt[0]*{s0}>mu_pt[1]*{s1}) {{ pt_mu1 = mu_pt[0]*{s0}; pt_mu2 = mu_pt[1]*{s1}; }}//systematics\n"
+    f"      else {{ pt_mu1 = mu_pt[1]*{s1}; pt_mu2 = mu_pt[0]*{s0}; }}\n"
+    "\n"
+)
+
+text = text.replace(marker, block + "      " + marker, 1)
+path.write_text(text)
+PY
+}
+
 run_root_and_get_ratio_and_den() {
   # Returns "ratio|denA"
   # isBs2=1: parse "BDT: a, b" => ratio=b/a and denA=a
@@ -129,18 +190,22 @@ PY
 
 run_config_ratio() {
   # Run a config and return ratio only.
-  # Arguments: tag isRun3 puVariant sfBase sfVariant sfK(optional)
+  # Arguments:
+  #   tag isRun3 puVariant sfBase sfVariant sfK(optional) muScaleVariant(optional) muScaleIdx(optional)
   local tag="$1"
   local isRun3="$2"
   local puVar="$3"
   local sfBase="$4"
   local sfVar="$5"
   local sfK="${6:-}"
+  local muScaleVar="${7:-nom}"
+  local muScaleIdx="${8:-}"
 
   # Fresh copy per config
   cp -p "$ORIG_CC" "$PARENT_DIR/check_eff_fid.cc"
   apply_pu_variant "$puVar"
   apply_sf_variant "$sfBase" "$sfVar" "$sfK"
+  apply_mu_scale_variant "$muScaleVar" "$muScaleIdx"
 
   # isBs2=1 first (gets denA)
   local out1 ratio1 denA
@@ -304,6 +369,46 @@ for k in 0 1 2 3; do
   done
 done
 
+# ---- MUON scale systematics via injected pre-selection block (idx=0..5) ----
+row_name_for_mu_scale_idx() {
+  case "$1" in
+    0) echo "MUON_CB" ;;
+    1) echo "MUON_SCALE" ;;
+    2) echo "MUON_SAGITTA_RESBIAS" ;;
+    3) echo "MUON_SAGITTA_DATASTAT" ;;
+    4) echo "MUON_SAGITTA_GLOBAL" ;;
+    5) echo "MUON_SAGITTA_PTEXTRA" ;;
+    *) echo "MUON_SCALE_$1" ;;
+  esac
+}
+
+for k in 0 1 2 3 4 5; do
+  row="$(row_name_for_mu_scale_idx "$k")"
+  for isRun3 in 0 1; do
+    read -r up_bs2_1 up_bs2_0 < <(run_config_ratio "${row}_up_k${k}_isRun3${isRun3}" "$isRun3" "nom" "mu_medium_eff_sf" "nom" "" "up" "$k")
+    read -r dn_bs2_1 dn_bs2_0 < <(run_config_ratio "${row}_dn_k${k}_isRun3${isRun3}" "$isRun3" "nom" "mu_medium_eff_sf" "nom" "" "dn" "$k")
+
+    A1="$(get_result norm_isBs21_isRun3${isRun3})"
+    A0="$(get_result norm_isBs20_isRun3${isRun3})"
+
+    e21_up="$(relerr "$A1" "$up_bs2_1")"
+    e21_dn="$(relerr "$A1" "$dn_bs2_1")"
+    e31_up="$(relerr "$A0" "$up_bs2_0")"
+    e31_dn="$(relerr "$A0" "$dn_bs2_0")"
+
+    set_result "${row}_isBs21_isRun3${isRun3}_up" "$e21_up"
+    set_result "${row}_isBs21_isRun3${isRun3}_dn" "$e21_dn"
+    set_result "${row}_isBs20_isRun3${isRun3}_up" "$e31_up"
+    set_result "${row}_isBs20_isRun3${isRun3}_dn" "$e31_dn"
+
+    log_note "[${row}] k=$k isRun3=$isRun3"
+    log_note "  norm  eps2/eps1=$A1  eps3/eps1=$A0"
+    log_note "  up    eps2/eps1=$up_bs2_1  eps3/eps1=$up_bs2_0"
+    log_note "  down  eps2/eps1=$dn_bs2_1  eps3/eps1=$dn_bs2_0"
+    log_note "  rel   eps2/eps1=$(relerr_pct_pm "$e21_up" "$e21_dn")  eps3/eps1=$(relerr_pct_pm "$e31_up" "$e31_dn")"
+  done
+done
+
 fmt_pm() {
   python3 - <<PY
 up=float("$1")*100.0
@@ -346,6 +451,12 @@ print_row "MUON_lowpt_EFF_RECO_STAT" "MUON_lowpt_EFF_RECO_STAT"
 print_row "MUON_lowpt_EFF_RECO_STAT_LOWPT" "MUON_lowpt_EFF_RECO_STAT_LOWPT"
 print_row "MUON_lowpt_EFF_RECO_SYS" "MUON_lowpt_EFF_RECO_SYS"
 print_row "MUON_lowpt_EFF_RECO_SYS_LOWPT" "MUON_lowpt_EFF_RECO_SYS_LOWPT"
+print_row "MUON_CB" "MUON_CB"
+print_row "MUON_SCALE" "MUON_SCALE"
+print_row "MUON_SAGITTA_RESBIAS" "MUON_SAGITTA_RESBIAS"
+print_row "MUON_SAGITTA_DATASTAT" "MUON_SAGITTA_DATASTAT"
+print_row "MUON_SAGITTA_GLOBAL" "MUON_SAGITTA_GLOBAL"
+print_row "MUON_SAGITTA_PTEXTRA" "MUON_SAGITTA_PTEXTRA"
 echo "===============================================================================" 
 echo ""
 echo "Done. Workdir kept at: $PARENT_DIR"
